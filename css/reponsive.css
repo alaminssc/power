@@ -1,0 +1,32 @@
+/* mini device-- galaxy fold and mini phone */
+@media(min-width:279px) and (max-width: 320px){
+    /* code start */
+    .header h1{
+        font-size: 20px;
+    }
+    .header p{
+        font-size: 14px;
+    }
+    /* code end */
+}
+@media(min-width:321px) and (max-width: 480px){
+    /* code start */
+.header h1{
+    font-size: 24px;
+}
+.header p{
+    font-size: 12px;
+}
+.banner h1 {
+    font-size: 18px;
+}
+.power h1{
+    margin: 0px 30px;
+}
+    /* code end */
+}
+@media(min-width:481px) and (max-width: 767px){
+    /* code start */
+
+    /* code end */
+}
